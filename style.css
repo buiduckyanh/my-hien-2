@@ -41,6 +41,7 @@ button {
   padding: 1;
   border: 1px;
   color: black;
+  touch-action: manipulation;
 }
 
 td {
