@@ -9,7 +9,9 @@ h2 {
   background-color: red;
   font-family: "Times New Roman", Times, serif;
 }
-
+h5 {
+  text-align: right;
+}
 /* h2 {
   text-align: center;
   color: red;
